@@ -2,12 +2,11 @@
 # makesure you have ffmpeg in your env path
 --extra-index-url https://download.pytorch.org/whl/cu124
 
-fastapi==0.115.2
 lightning==2.5.1
 lightning-utilities==0.14.3
 numpy==1.26.4
 peft==0.5.0
-prometheus-fastapi-instrumentator==7.0.0
+
 
 prometheus_client==0.21.0
 python-multipart==0.0.20
@@ -39,3 +38,4 @@ gradio==4.44.1
 gradio-client==1.3.0 
 fastapi==0.110.3 
 pydantic==2.7.0
+prometheus-fastapi-instrumentator
